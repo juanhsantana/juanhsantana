@@ -5,13 +5,13 @@ I am a logistic technician graduated from "ETEC - Escola Técnica” in 2022. Cu
 
 A software developer who is also passionate about user interface design.
 
-### Technologies
+### Technologies ❄️
   - Front-end Development with HTML, CSS, Javascript, Typescript, React and NextJS.
   - User Interface Design.
 
-### Social media
+### Social media 💻
   - <a href="instagram.com/juanhenriques10">Instagram - @juanhenriques10</a>
 
-### Contact
+### Contact 📧
   - <a href="linkedin.com/in/juanhsantana">Linkedin</a>
   - <a href="mailto:contatojuanhenrique@gmail.com">E-mail</a>
