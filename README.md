@@ -1,4 +1,4 @@
-### About me
+### About me ☕
 Hey there! I’m Juan Henrique, 18 years old, currently living in Brazil.
 
 I am a logistic technician graduated from "ETEC - Escola Técnica” in 2022. Currently, I am a student in Computer Engineering at ESAMC (ESAMC, Escola Superior de Administração, Marketing e Comunicação) in Santos, São Paulo.
